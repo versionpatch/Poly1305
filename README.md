@@ -1,0 +1,1 @@
+make all to build both poly1305-gen and poly1305-test
